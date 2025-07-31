@@ -2,7 +2,7 @@
 
 A complete skill swapping platform built with Spring Boot backend and React frontend.
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Prerequisites
 - Java 17 or higher
